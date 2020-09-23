@@ -1,4 +1,4 @@
-baseURL = "https://recipes.coffey.family/"
+baseURL = "http://coffey.family/"
 languageCode = "en-us"
 title = "Coffey Family Recipe Book"
 
