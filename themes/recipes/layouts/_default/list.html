@@ -1,0 +1,14 @@
+{{ define "main" }}.
+<section class="section">
+  <div class="container">
+    <div class="columns is-centered">
+      <div class="column is-half">
+        <h3 class="title">{{ humanize .Page.Title }}</h3>
+        {{ range .Pages }}
+        {{ partial "box.html" . }}
+        {{ end }}
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}

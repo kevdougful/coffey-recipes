@@ -1,0 +1,18 @@
+{{ define "main" }}
+<section class="section">
+  <div class="container">
+    <div class="columns is-centered">
+      <div class="column is-half">
+        <div style="margin-bottom: 1em;">
+          {{ range .Site.Taxonomies.tags }}
+          <a class="tag" href="{{ .Page.Permalink }}">{{ .Page.Title }}</a>
+          {{ end }}
+        </div>
+        {{ range .Site.RegularPages }}
+        {{ partial "box.html" . }}
+        {{ end }}
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
