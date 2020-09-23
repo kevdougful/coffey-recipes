@@ -1,0 +1,5 @@
+baseURL = "https://recipes.coffey.family/"
+languageCode = "en-us"
+title = "Coffey Family Recipe Book"
+
+theme = "recipes"

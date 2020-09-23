@@ -1,0 +1,3 @@
+[submodule "themes/recipes"]
+	path = themes/recipes
+	url = git@github.com:kevdougful/recipes-theme.git
