@@ -11,9 +11,9 @@ phases:
       - dpkg -i hugo.deb
   pre_build:
     commands:
-      - echo In pre_build phase..
-      - echo Current directory is $CODEBUILD_SRC_DIR
-      - ls -la
+      - echo pulling theme
+      - git submodule update --init --recursive
+      - ls -la themes/recipes
   build:
     commands:
       - hugo -v
