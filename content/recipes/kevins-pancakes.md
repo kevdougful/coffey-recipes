@@ -1,6 +1,5 @@
 ---
 title: "Kevin's Pancakes 🥞"
-description: "Kevin's from scratch pancakes"
 summary: "Make 'em from scratch. It's not hard and _way_ better."
 date: 2018-02-10T08:11:45-06:00
 draft: false
@@ -9,6 +8,8 @@ tags: ["kevin", "pancakes", "scratch", "breakfast"]
 featured_image: "/pancakes.jpg"
 permalink: "kevins-pancakes"
 ---
+
+_Author: Kevin Coffey_
 
 ## Ingredients
 
