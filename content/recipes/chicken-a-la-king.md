@@ -33,5 +33,5 @@ _Author: Kevin Coffey_
 6. While the flour is cooking, mix the milk and broth together and warm to ~150°F.
 7. Begin adding the warmed liquid to the pot slowly at first. With each addition, fully incorporate the liquid into the flour mixture. Keep slowly adding liquid and mixing until it's all in the pot. 
 8. Add in onions and let this heat under low-medium heat, stirring regularly (scrape the bottom!) until thickened.
-9. Once this mixure reaches boiling (look for bubbles, or 212°F), stir in frozen peas.
+9. Once this mixture reaches boiling (look for bubbles, or 212°F), stir in frozen peas.
 10. Serve over rice.
