@@ -1,6 +1,6 @@
 ---
 title: "Potato Salad"
-summary: Walt's moderenized version of Grandma Viefhaus's german recipe
+summary: Walt's moderenized version of Grandma Viefhaus's German recipe
 date: 2020-09-28T21:29:39-05:00
 draft: false
 time: "35m"
