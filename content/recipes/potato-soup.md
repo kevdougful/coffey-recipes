@@ -17,13 +17,14 @@ _Author: Kevin Coffey_
 - 6 cup chicken broth
 - 1 cup sour cream
 - 4 oz cream cheese
-- 4 lb baked potatoes, precooked
+- 5 lb baked potatoes, precooked
 - 8 oz shredded sharp cheddar cheese
 - 1 tsp salt
 - 2 tsp ground black pepper
 - 6 slices thick cut bacon, precooked and crumbled
 - 3 oz shredded mild cheddar cheese
-- 1 cup chopped chives
+- 1 cup chopped chives or green onions
+- 2-3 cups milk (to thin down to desired consistency)
 
 ## Directions
 
@@ -32,4 +33,5 @@ _Author: Kevin Coffey_
 3. Slice potatoes in half and scoop out insides of potato, add to pot.
 4. Smash potatoes into chunks using a potato masher or wooden spoon until desired consistency is reached.
 5. Add sharp cheddar, salt, and pepper.  Stir until cheese is melted
-6. Top with mild cheddar cheese and chives and serve.
+6. Add milk until desired consistency is reached. 
+7. Top with mild cheddar cheese and chives and serve.
